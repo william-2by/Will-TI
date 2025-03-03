@@ -1,0 +1,74 @@
+/* font styles */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    justify-content: center;
+    margin-top: 0;
+}
+
+#hero {
+    width: 592px;
+    margin: 0 auto 72px;
+}
+
+#hero img {
+    width: 500px;
+    height: 223px;
+    margin: 20px auto 72px;
+    border-radius: 25px;
+}
+
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    margin-bottom: 32px;
+    margin-top: 15px;
+}
+
+h1 span {
+    font-weight: bold;
+}
+
+span,
+a {
+    color: #FF9900;
+}
+
+p,
+footer {
+    color: #7D7987;
+    font-size: 14px;
+    line-height: 28px;
+}
+
+footer a+a {
+    margin-left: 28px;
+}
+
+#line {
+    border: 1px solid #ECEFF2;
+    width: 568px;
+    height: 0;
+    margin: 0 auto 8px;
+}
+
+#badrom-decor {
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    width: 270px;
+    height: 500px;
+    margin-right: 860px;
+
+}
+
+#balls-decoration {
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    width: 270px;
+    height: 500px;
+    margin-right: 15px;
+}
